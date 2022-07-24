@@ -8,7 +8,7 @@
       <link href="/2022/07/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2022/07/24/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h1 id="我的博客文章编写"><a href="#我的博客文章编写" class="headerlink" title="我的博客文章编写"></a>我的博客文章编写</h1><span id="more"></span> <h2 id="将新内容加入云端操作步骤"><a href="#将新内容加入云端操作步骤" class="headerlink" title="将新内容加入云端操作步骤"></a>将新内容加入云端操作步骤</h2><p>第一步：hexo clean   清空<br>第二步：hexo g    生成静态文件<br>第三步：hexo s    预览<br>第四步：hexo d  加入云端</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="我的博客文章编写"><a href="#我的博客文章编写" class="headerlink" title="我的博客文章编写"></a>我的博客文章编写</h1><span id="more"></span> <h2 id="将新内容加入云端操作步骤"><a href="#将新内容加入云端操作步骤" class="headerlink" title="将新内容加入云端操作步骤"></a>将新内容加入云端操作步骤</h2><p>第一步：hexo clean   清空<br>第二步：hexo g    生成静态文件<br>第三步：hexo s    预览<br>第四步：hexo d  加入云端</p><h2 id="添加文章"><a href="#添加文章" class="headerlink" title="添加文章"></a>添加文章</h2><p>需要在保存本博客的文件夹中的空白处点击右键中的(git bash here)运行以下命令<br>hexo new “文章名”  </p>]]></content>
       
       
       
